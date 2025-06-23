@@ -1,0 +1,8 @@
+openai
+pandas
+matplotlib
+pyttsx3
+SpeechRecognition
+pyaudio
+tk
+
